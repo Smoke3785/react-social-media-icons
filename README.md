@@ -1,5 +1,7 @@
 # Social Media Icons for React JS
 
+[NPM](https://www.npmjs.com/package/react-social-media-icons) **|** [View on Website](https://owenrossikeen.com/docs/react-social-media-icons)
+
 The original package by David McQuillan was removed from NPM, evidently for security concerns. I did not write this package - this is simply a sanitized re-upload of the original.
 
 React JS Package for easy creation and highly customizable Social Media Icons.
