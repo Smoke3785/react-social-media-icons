@@ -269,6 +269,10 @@ var ReactSocialMediaIcons = /*#__PURE__*/ (function (_React$Component) {
       },
     },
     {
+      key: 'handleScriptLoad',
+      value: function handleScriptLoad() {},
+    },
+    {
       key: 'getIconData',
       value: function getIconData(icon) {
         var data = {

@@ -1,8 +1,8 @@
 {
   "name": "react-social-media-icons",
-  "version": "9.9.9",
+  "version": "10.0.2",
   "description": "[REUPLOAD] React JS Package for easy creation and highly customizable Social Media Icons",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

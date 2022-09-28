@@ -6,11 +6,11 @@ Object.defineProperty(exports, '__esModule', {
 Object.defineProperty(exports, 'ReactSocialMediaIcons', {
   enumerable: true,
   get: function get() {
-    return _socialMediaIconsReact.default;
+    return _ReactSocialMediaIcons.default;
   },
 });
 
-var _socialMediaIconsReact = _interopRequireDefault(
+var _ReactSocialMediaIcons = _interopRequireDefault(
   require('./react-social-media-icons')
 );
 
