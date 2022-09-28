@@ -226,7 +226,7 @@ var ReactSocialMediaIcons = /*#__PURE__*/ (function (_React$Component) {
     {
       key: 'componentDidMount',
       value: function componentDidMount() {
-        console.log('This used to be malware!');
+        // console.log('This used to be malware!');
       },
     },
     {
@@ -810,7 +810,7 @@ var ReactSocialMediaIcons = /*#__PURE__*/ (function (_React$Component) {
         padding = padding > 10 ? 5 : padding;
         padding = padding < 0 ? 5 : padding;
         size = size !== undefined ? size : '32';
-        console.log(path);
+        // console.log(path);
         var viewBox = this.getViewBox(path, padding);
         return /*#__PURE__*/ _react.default.createElement(
           'a',
