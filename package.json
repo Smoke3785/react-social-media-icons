@@ -1,5 +1,5 @@
 {
-  "name": "react-social-media-icons",
+  "name": "@Smoke3785/react-social-media-icons",
   "version": "10.0.4",
   "description": "[REUPLOAD] React JS Package for easy creation and highly customizable Social Media Icons",
   "main": "dist/index.js",
@@ -18,6 +18,10 @@
     "react js",
     "svg"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Smoke3785/react-social-media-icons"
+  },
   "author": {
     "name": "Owen Rossi-Keen",
     "url": "https://owenrossikeen.com/"
@@ -55,5 +59,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Smoke3785"
   }
 }
